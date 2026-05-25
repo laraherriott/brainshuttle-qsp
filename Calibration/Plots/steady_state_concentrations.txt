@@ -1,0 +1,17 @@
+Disease (MCI) — endpoint concentrations (nM)
+  Brain monomer: 1.0514511624994802
+  Brain oligomer: 14.612992465401199
+  Brain plaque: 1312.852672167898
+  Plasma monomer: 0.006936322004711254
+  Plasma oligomer: 0.001092052163591902
+  CSF monomer: 0.15544581061969154
+  CSF oligomer: 0.006913805699089959
+
+Healthy — endpoint concentrations (nM)
+  Brain monomer: 1.6103639569740182
+  Brain oligomer: 1.0700831427826378
+  Brain plaque: 0.0
+  Plasma monomer: 0.0025356948198115388
+  Plasma oligomer: 0.0017223759235603037
+  CSF monomer: 0.12332423534608646
+  CSF oligomer: 0.11477980980996459
